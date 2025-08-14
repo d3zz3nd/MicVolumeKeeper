@@ -7,3 +7,4 @@ Here you can change the value (Program.cs):
                     device.AudioEndpointVolume.MasterVolumeLevelScalar = 1.0f;
                 }
 ```
+then just add shortcut on it in your startup
